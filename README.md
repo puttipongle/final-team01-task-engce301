@@ -8,6 +8,6 @@
 
 
 # สมาชิก 
-> <tr> 1. นายโอภาสพันธ์ กลิ่นชื่นจิต    ตำแหน่ง System Analyst (SA) Email: opaspun_kl65@live.rmutl.ac.th </tr>
-> <tr> 2. นาย ณัฐภัทร เจริญกิจหัตถกร  ตำแหน่ง Developer           Email: nattapat_ch651@live.rmutl.ac.th </tr>
-> <tr> 3. นาย พุฒิพงศ์  หลีแก้วสาย   ตำแหน่ง Tester              Email: puttipong_le65@live.rmutl.ac.th </tr>
+> <tr> 1. นายโอภาสพันธ์ กลิ่นชื่นจิต    ตำแหน่ง System Analyst (SA) Email: opaspun_kl65@live.rmutl.ac.th </tr> <br />
+> <tr> 2. นาย ณัฐภัทร เจริญกิจหัตถกร  ตำแหน่ง Developer           Email: nattapat_ch651@live.rmutl.ac.th </tr> <br />
+> <tr> 3. นาย พุฒิพงศ์  หลีแก้วสาย   ตำแหน่ง Tester              Email: puttipong_le65@live.rmutl.ac.th </tr> <br />
